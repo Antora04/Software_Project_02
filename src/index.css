@@ -149,7 +149,7 @@ body {
 .badge-theory { background: #fef3c7; color: #b45309; }
 .badge-lab { background: #ccfbf1; color: #0f766e; }
 
-/* Buttons */
+/*Buttons*/
 .btn {
   display: inline-flex;
   align-items: center;

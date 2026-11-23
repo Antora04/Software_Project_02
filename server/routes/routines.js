@@ -17,7 +17,7 @@ const {
   diffRoutines
 } = require('../utils/scheduleConfig');
 
-// Helper to convert term code (e.g. Y1S1) to short notation (1-1)
+// Helper toconvert   term code (e.g. Y1S1) to short notation (1-1)
 function getShortTerm(termCode, semesterName) {
   if (!termCode) return semesterName || '';
   const tc = termCode.toUpperCase().trim();
